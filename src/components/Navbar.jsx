@@ -11,7 +11,7 @@ const Navbar = () => {
     return (
         <>
             <nav className="navbar-box">
-                <div className="image-box">in
+                <div className="image-box">
                     <NavLink to={'/'} ><img src="/logo.png" alt="logo" className="image" /></NavLink>
                 </div>
                 <div className="mid-container">
